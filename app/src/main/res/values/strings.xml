@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">internshiptest</string>
+    <string name="email">Email ID</string>
+    <string name="login">Login</string>
+    <string name="passowrd">Password</string>
+    <string name="signout">Sign Out</string>
+</resources>
