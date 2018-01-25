@@ -86,7 +86,7 @@ public class Login extends AppCompatActivity {
             new CountDownTimer(60000, 1000) {
 
                 public void onTick(long millisUntilFinished) {
-                    hiddenCounter.setText("waite: " + millisUntilFinished / 1000);
+                    hiddenCounter.setText("wait: " + millisUntilFinished / 1000);
                 }
 
                 public void onFinish() {
